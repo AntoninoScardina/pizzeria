@@ -1,0 +1,21 @@
+[{
+    "Nome": "Margherita",
+    "Categoria": "Pizza",
+    "Foto": "Margherita",
+    "Ingredienti": "Mozzarella"
+    
+},
+{
+    "Nome": "Romana",
+    "Categoria": "Pizza",
+    "Foto": "Margherita",
+    "Ingredienti": "Wurstel"
+    
+},
+{
+    "Nome": "Margherita",
+    "Categoria": "Pizza",
+    "Foto": "Margherita",
+    "Ingredienti": "Margherita"
+    
+}]
