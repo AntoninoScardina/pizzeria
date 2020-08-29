@@ -1,28 +1,130 @@
-{"results":[
+{
+  "results": [
     {
-        "Nome": "Margherita",
-        "Categoria": "Pizza",
-        "Ingredienti":"Pomodoro",
-        "Link_Foto": "https://static.cookist.it/wp-content/uploads/sites/21/2018/04/pizza-margherita-fatta-in-casa-638x425.jpg"
-
+      "Nome": "Margherita",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro , Mozzarella ",
+      "Link_Foto": "https://static.cookist.it/wp-content/uploads/sites/21/2018/04/pizza-margherita-fatta-in-casa-638x425.jpg"
     },
     {
-        "Nome": "Margherita",
-        "Categoria": "Pizza",
-        "Ingredienti":"Pomodoro",
-        "Link_Foto": "https://static.cookist.it/wp-content/uploads/sites/21/2018/04/pizza-margherita-fatta-in-casa-638x425.jpg"
-
+      "Nome": "Marinara",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, aglio, olio, origano",
+      "Link_Foto": "https://images.app.goo.gl/pgfCJEqYiLTUXtke6"
     },
     {
-        "Nome": "Margherita",
-        "Categoria": "Pizza",
-        "Ingredienti":"Pomodoro",
-        "Link_Foto": "https://static.cookist.it/wp-content/uploads/sites/21/2018/04/pizza-margherita-fatta-in-casa-638x425.jpg"
-
+      "Nome": "Napoli",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Acciughe",
+      "Link_Foto": "https://images.app.goo.gl/mSuxmPK6Hxwtx9cm9"
+    },
+    {
+      "Nome": "Romana",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro,Mozzarella,Acciughe,capperi",
+      "Link_Foto": "https://images.app.goo.gl/KUmdHd87DEkoRRea6"
+    },
+    {
+      "Nome": "Pugliese",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, cipolle",
+      "Link_Foto": "https://images.app.goo.gl/hMb3mN9sfAkjJmEt6"
+    },
+    {
+      "Nome": "Capricciosa",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi",
+      "Link_Foto": "https://images.app.goo.gl/69SextiSqH1GSBRK6"
+    },
+    {
+      "Nome": "4 stagioni",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi, Salamino",
+      "Link_Foto": "https://images.app.goo.gl/sMQPsAcJozNYqL5N8"
+    },
+    {
+      "Nome": "Prosciutto",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Prosciutto",
+      "Link_Foto": "https://images.app.goo.gl/rD2SezeW4zG2EicJA"
+    },
+    {
+      "Nome": "Prosciutto e funghi",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi",
+      "Link_Foto": "https://images.app.goo.gl/YuZ9J1Vd2PRQB7T57"
+    },
+    {
+      "Nome": "Wurstel",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, wurstel",
+      "Link_Foto": "https://images.app.goo.gl/xkZJFFgZqqRezZSHA"
+    },
+    {
+      "Nome": "Salamino piccante",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Salamino piccante",
+      "Link_Foto": "https://images.app.goo.gl/9PtBZg1tXXJ7WRTQ7"
+    },
+    {
+      "Nome": "Siciliana",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Acciughe, Capperi, olive",
+      "Link_Foto": "https://images.app.goo.gl/UwRdypnJFPBRtU7j9"
+    },
+    {
+      "Nome": "Scogliera",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Frutti di Mare",
+      "Link_Foto": "https://images.app.goo.gl/BXuA8EjtxdKUTghk7"
+    },
+    {
+      "Nome": "4 formaggi",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Zola, Scamorza, Grana",
+      "Link_Foto": "https://images.app.goo.gl/rJqrbySzeWgzZcf28"
+    },
+    {
+      "Nome": "Americana",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Patatine, Wurstel",
+      "Link_Foto": "https://images.app.goo.gl/LpRHUGdJTQTTxyNdA"
+    },
+    {
+      "Nome": "Mare e monti",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Porcini, Frutti di mare",
+      "Link_Foto": "https://images.app.goo.gl/VwTLhJ7SGobJ1gpF8"
+    },
+    {
+      "Nome": "Calamari",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Calamari",
+      "Link_Foto": "https://images.app.goo.gl/4kwt8YYiSfRHG61j6"
+    },
+    {
+      "Nome": "Tonno",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Tonno, Mozzarella, Cipolla",
+      "Link_Foto": "https://images.app.goo.gl/NxJVx3noLSWUmuZz7"
+    },
+    {
+      "Nome": "Rucola",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Rucola, Prosciutto Crudo, Grana",
+      "Link_Foto": "https://images.app.goo.gl/S7fRiotXRXugBzek6"
+    },
+    {
+      "Nome": "Vegetariana",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Zucchine, Melanzane, Peperoni",
+      "Link_Foto": "https://images.app.goo.gl/6G9wfwvbm4FHT3Bg6"
+    },
+    {
+      "Nome": "Novarese",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Gorgonzola",
+      "Link_Foto": "https://images.app.goo.gl/34B9gmfPDjRCcjrC6"
     }
-
-
-]
-
-
-}
+    ]
+  }
