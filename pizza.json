@@ -4,127 +4,127 @@
       "Nome": "Margherita",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro , Mozzarella ",
-      "Link_Foto": "https://static.cookist.it/wp-content/uploads/sites/21/2018/04/pizza-margherita-fatta-in-casa-638x425.jpg"
+      "Link_Foto": "https://www.tavolartegusto.it/wp/wp-content/uploads/2020/05/Pizza-napoletana-Ricetta-della-Pizza-Napoletana-Pizza-Margherita-1280x720.jpg"
     },
     {
       "Nome": "Marinara",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, aglio, olio, origano",
-      "Link_Foto": "https://images.app.goo.gl/pgfCJEqYiLTUXtke6"
+      "Link_Foto": "https://wips.plug.it/cips/buonissimo.org/cms/2012/05/pizza-alla-marinara.jpg?w=712&a=c&h=406"
     },
     {
       "Nome": "Napoli",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Acciughe",
-      "Link_Foto": "https://images.app.goo.gl/mSuxmPK6Hxwtx9cm9"
+      "Link_Foto": "https://wips.plug.it/cips/buonissimo.org/cms/2012/07/pizza-napoli-5.jpg"
     },
     {
       "Nome": "Romana",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro,Mozzarella,Acciughe,capperi",
-      "Link_Foto": "https://images.app.goo.gl/KUmdHd87DEkoRRea6"
+      "Link_Foto": "https://www.ricettedalmondo.it/images/foto-ricette/p/31815-pizza-romana.jpg"
     },
     {
       "Nome": "Pugliese",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, cipolle",
-      "Link_Foto": "https://images.app.goo.gl/hMb3mN9sfAkjJmEt6"
+      "Link_Foto": "data:image/jpeg;base64,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"
     },
     {
       "Nome": "Capricciosa",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi",
-      "Link_Foto": "https://images.app.goo.gl/69SextiSqH1GSBRK6"
+      "Link_Foto": "https://primochef.it/wp-content/uploads/2018/05/SH_pizza_capricciosa.jpg"
     },
     {
       "Nome": "4 stagioni",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi, Salamino",
-      "Link_Foto": "https://images.app.goo.gl/sMQPsAcJozNYqL5N8"
+      "Link_Foto":"https://i1.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2016/07/3017_Pizza.jpg?resize=895%2C616&ssl=1"
     },
     {
       "Nome": "Prosciutto",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Prosciutto",
-      "Link_Foto": "https://images.app.goo.gl/rD2SezeW4zG2EicJA"
+      "Link_Foto":"https://www.galbani.it/img_din/pizza_prosciutto_cotto_funghi_mobile.jpg"
     },
     {
       "Nome": "Prosciutto e funghi",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi",
-      "Link_Foto": "https://images.app.goo.gl/YuZ9J1Vd2PRQB7T57"
+      "Link_Foto": "https://www.checucino.it/wp-content/uploads/2018/11/iStock-1012539510.jpg"
     },
     {
       "Nome": "Wurstel",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, wurstel",
-      "Link_Foto": "https://images.app.goo.gl/xkZJFFgZqqRezZSHA"
+      "Link_Foto": "https://www.petitchef.it/imgupl/recipe/pizza-ai-wurstel--455630p707849.jpg"
     },
     {
       "Nome": "Salamino piccante",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Salamino piccante",
-      "Link_Foto": "https://images.app.goo.gl/9PtBZg1tXXJ7WRTQ7"
+      "Link_Foto": "https://vivere.meglio.it/wp-content/uploads/2011/07/Depositphotos_8629462_s-2015.jpg"
     },
     {
       "Nome": "Siciliana",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Acciughe, Capperi, olive",
-      "Link_Foto": "https://images.app.goo.gl/UwRdypnJFPBRtU7j9"
+      "Link_Foto": "https://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/03/s-evid.jpg"
     },
     {
       "Nome": "Scogliera",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Frutti di Mare",
-      "Link_Foto": "https://images.app.goo.gl/BXuA8EjtxdKUTghk7"
+      "Link_Foto": "https://media-cdn.tripadvisor.com/media/photo-s/08/00/25/11/pizza-scogliera.jpg"
     },
     {
       "Nome": "4 formaggi",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Zola, Scamorza, Grana",
-      "Link_Foto": "https://images.app.goo.gl/rJqrbySzeWgzZcf28"
+      "Link_Foto": "https://primochef.it/wp-content/uploads/2020/04/SH_pizza_quattro_formaggi.jpg"
     },
     {
       "Nome": "Americana",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Patatine, Wurstel",
-      "Link_Foto": "https://images.app.goo.gl/LpRHUGdJTQTTxyNdA"
+      "Link_Foto": "https://www.ristorantepizzeriajanna.com/wp-content/uploads/2015/10/pizza-americana-brescia_opt.jpg"
     },
     {
       "Nome": "Mare e monti",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Porcini, Frutti di mare",
-      "Link_Foto": "https://images.app.goo.gl/VwTLhJ7SGobJ1gpF8"
+      "Link_Foto": "https://wips.plug.it/cips/buonissimo.org/cms/2011/09/pizza-mari-e-monti.jpg?w=541&a=c&h=309"
     },
     {
       "Nome": "Calamari",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Calamari",
-      "Link_Foto": "https://images.app.goo.gl/4kwt8YYiSfRHG61j6"
+      "Link_Foto": "https://blog.giallozafferano.it/dolcesalatomiky/wp-content/uploads/2014/10/DSC_0143-2.jpg"
     },
     {
       "Nome": "Tonno",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Tonno, Mozzarella, Cipolla",
-      "Link_Foto": "https://images.app.goo.gl/NxJVx3noLSWUmuZz7"
+      "Link_Foto": "https://blog.giallozafferano.it/dulcisinforno/wp-content/uploads/2014/09/2484pizza-tonno-cipolla.jpg"
     },
     {
       "Nome": "Rucola",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Rucola, Prosciutto Crudo, Grana",
-      "Link_Foto": "https://images.app.goo.gl/S7fRiotXRXugBzek6"
+      "Link_Foto": "https://i0.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2016/12/3018_Pizza.jpg?resize=895%2C616&ssl=1"
     },
     {
       "Nome": "Vegetariana",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Zucchine, Melanzane, Peperoni",
-      "Link_Foto": "https://images.app.goo.gl/6G9wfwvbm4FHT3Bg6"
+      "Link_Foto": "content://media/external/downloads/2476"
     },
     {
       "Nome": "Novarese",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Gorgonzola",
-      "Link_Foto": "https://images.app.goo.gl/34B9gmfPDjRCcjrC6"
+      "Link_Foto": "https://www.petitchef.it/imgupl/recipe/pizza-al-gorgonzola--450185p695925.jpg"
     }
-    ]
-  }
+  ]
+}
