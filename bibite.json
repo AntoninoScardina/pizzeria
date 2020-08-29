@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "Nome": "CocaCola",
+      "Categoria": "Bibita",
+      "cl": "33 CL / 1.5 L",
+      "Link_Foto": "https://www.ilpiaceredellacqua.com/wp-content/uploads/2018/07/coca-cola-lattina-33.jpg"
+    },
+    {
+      "Nome": "Fanta",
+      "Categoria": "Bibita",
+      "cl": "33 CL / 1.5 L",
+      "Link_Foto": "https://www.mondoffice.com/content/images/product/77271_1_xnm.jpg"
+    },
+    {
+      "Nome": "Sprite",
+      "Categoria": "Bibita",
+      "cl": "33 CL / 1.5 L",
+      "Link_Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThBfKkd43IHSBnY-RG33b787cQ18dQD-L1jg&usqp=CAU"
+    },
+    {
+      "Nome": "Chinotto",
+      "Categoria": "Bibita",
+      "cl": "33 CL",
+      "Link_Foto": "https://www.mediawavestore.com/54849-large_default/chino-sanpellegrino-confezione-risparmio-24-lattine-da-33-cl-vero-estr-chinotto.jpg"
+    },
+    {
+      "Nome": "Acqua",
+      "Categoria": "Bibita",
+      "cl": "50 CL / 1 L",
+      "Link_Foto": "https://elim.shop/media/com_eshop/products/000008773.jpg"
+    }
+  ]
+}
+
