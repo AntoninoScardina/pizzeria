@@ -1,0 +1,102 @@
+{
+  "results": [
+    {
+      "Nome": "Cartoccio",
+      "Categoria": "Panino",
+      "Ingredienti": "Prosciutto cotto , Fior di latte, salsa rosa ",
+      "Link_Foto": 
+"https://anticapanelleriasciacca.weebly.com/uploads/2/1/8/0/21807516/1374312602.jpg"
+    },
+    {
+      "Nome": "Tonno",
+      "Categoria": "Panino",
+      "Ingredienti": "Pomodoro, lattuga, tonno, maionese",
+      "Link_Foto": 
+"https://cdn.dotache.io/98b1538dd0e545c79a0ae0fa1e728af7/wp-content/uploads/2020/03/video-ricette-logo-rotondo-panino-tonno.png"
+    },
+    {
+      "Nome": "Salsiccia",
+      "Categoria": "Panino",
+      "Ingredienti": "Salsiccia, Peperoni, cipolla",
+      "Link_Foto": 
+"https://lh3.googleusercontent.com/proxy/p3G9ztWvWSZF40wSKFWbneVVmXSsTRNZoniSuyZ9DDW3AsqEgMDeMO9CJ-v5W0vFm9XQTU4rQZyP4QH7Z1IalHkA4lYe3KnNz2xuyOd8-b0Y4WEeUSfBDDnGzQ"
+    },
+    {
+      "Nome": "Crudo - Fior di latte",
+      "Categoria": "Panino",
+      "Ingredienti": "Prosciutto crudo, fior di latte, olio, origano, pomodoro a fette, lattuga",
+      "Link_Foto": 
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAbPCIjVFIf_8n04awdrxOL87cjnFWc4AuMQ&usqp=CAU"
+    },
+    {
+      "Nome": "Speck Hemmental",
+      "Categoria": "Pizza",
+      "Ingredienti": "Speck, Hemmental, olio, origano, lattuga, pomodoro",
+      "Link_Foto": 
+"https://www.negroni.com/sites/default/files/panini-con-il-prosciutto-cotto_0.jpg"
+    },
+    {
+      "Nome": "Topolino",
+      "Categoria": "Panino",
+      "Ingredienti": "Prosciutto cotto, wurstel, salsa rosa, mozzarella ",
+      "Link_Foto": 
+"https://www.ilparadisodellagastronomia.it/wp-content/uploads/2020/07/F2A1576C-C336-4F37-9B18-A5FBC70D8EA0.jpeg"
+    },
+    {
+      "Nome": "Chicken Sandwich",
+      "Categoria": "Panino",
+      "Ingredienti": "Pollo, pomodoro, lattuga, maionese",
+      "Link_Foto": 
+"https://natashaskitchen.com/wp-content/uploads/2020/06/Chicken-Sandwich-7.jpg"
+    },
+    {
+      "Nome": "Cheese Burger",
+      "Categoria": "Panino",
+      "Ingredienti": "Hamburger, cheddar, pomodoro, lattuga, ketchup",
+      "Link_Foto": 
+"https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg"
+    },
+    {
+      "Nome": "Porchetta",
+      "Categoria": "Panino",
+      "Ingredienti": "Porchetta, olio, limone, pepe",
+      "Link_Foto": 
+"https://d37va2rovhwkkr.cloudfront.net/preview_images/news/818_0.jpg"
+    },
+    {
+      "Nome": "Steak and Cheese",
+      "Categoria": "Panino",
+      "Ingredienti": "Tritato, cheddar, funghi, cipolla, maionese ",
+      "Link_Foto":
+"https://whatscookingamerica.net/wp-content/uploads/2015/03/PhiladelphiaCheeseSteak16.jpg"
+    },
+    {
+      "Nome": "Shark",
+      "Categoria": "Panino",
+      "Ingredienti": "Salamino piccante, mozzarella, wurstel, salsa rosa",
+      "Link_Foto": 
+"https://media-cdn.tripadvisor.com/media/photo-s/15/a0/6e/b3/chili-special.jpg"
+    },
+    {
+      "Nome": "Euro",
+      "Categoria": "Panino",
+      "Ingredienti": "Pomodoro, lattuga, olio, origano, prosciutto crudo ",
+      "Link_Foto":
+"https://www.negroni.com/sites/negroni.com/files/panini-con-il-prosciutto-cotto.jpg"
+    },
+    {
+      "Nome": "Kebab",
+      "Categoria": "Panino",
+      "Ingredienti": "Panino kebab, salsa ranch, radicchio, pomodoro, lattuga ",
+      "Link_Foto": 
+"https://citynews-napolitoday.stgy.ovh/~media/horizontal-mid/10706052525497/foto-centrale-2.jpg"
+    },
+    {
+      "Nome": "4 formaggi",
+      "Categoria": "Pizza",
+      "Ingredienti": "Pomodoro, Mozzarella, Zola, Scamorza, Grana",
+      "Link_Foto": "https://images.app.goo.gl/rJqrbySzeWgzZcf28"
+    
+    }
+    ]
+  }
