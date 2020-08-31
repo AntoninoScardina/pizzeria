@@ -4,127 +4,376 @@
       "Nome": "Margherita",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro , Mozzarella ",
-      "Link_Foto": "https://www.tavolartegusto.it/wp/wp-content/uploads/2020/05/Pizza-napoletana-Ricetta-della-Pizza-Napoletana-Pizza-Margherita-1280x720.jpg"
+      "Normale": "4.50",
+      "Familiare"8",
+      "Link_Foto": 
+"https://www.tavolartegusto.it/wp/wp-content/uploads/2020/05/Pizza-napoletana-Ricetta-della-Pizza-Napoletana-Pizza-Margherita-1280x720.jpg"
+    
     },
     {
-      "Nome": "Marinara",
-      "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, aglio, olio, origano",
-      "Link_Foto": "https://wips.plug.it/cips/buonissimo.org/cms/2012/05/pizza-alla-marinara.jpg?w=712&a=c&h=406"
-    },
-    {
-      "Nome": "Napoli",
+      "Nome": "Napoletana",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Acciughe",
-      "Link_Foto": "https://wips.plug.it/cips/buonissimo.org/cms/2012/07/pizza-napoli-5.jpg"
+      "Normale": "5",
+      "Familiare": "8.50",
+      "Link_Foto":
+"https://wips.plug.it/cips/buonissimo.org/cms/2012/07/pizza-napoli-5.jpg
     },
     {
       "Nome": "Romana",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro,Mozzarella,Acciughe,capperi",
-      "Link_Foto": "https://www.ricettedalmondo.it/images/foto-ricette/p/31815-pizza-romana.jpg"
+      "Normale": "5",
+      "Familiare": " 10",
+      "Link_Foto":
+"https://www.ricettedalmondo.it/images/foto-ricette/p/31815-pizza-romana.jpg"
     },
     {
-      "Nome": "Pugliese",
-      "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, cipolle",
-      "Link_Foto": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXwBFRcXHhoeOyEhO3xTRlN8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fP/AABEIAJAAvAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQADBgECB//EADgQAAIBAwMDAgMGBQMFAQAAAAECAwAEERIhMQUTQVFhIjJxBhRCgZGhI7HB0eEzYoIVQ1Jy8CT/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EACQRAAIDAAMAAgICAwAAAAAAAAABAhEhAxIxQVETYQRxIjJS/9oADAMBAAIRAxEAPwDZ1KlSsYlSpUrGJUqVRcXcVshaRtx+EcmtZi+uEgc0ol62hUdoaSeNXP6UtvupnvIok7ik4bPrSOaQ6hJmjkvII/mkGfbeqD1OPOEVmP6VnL1okRZY30MfOKDhu3kmRZJWYnbY81N8v0i0eD7Zqx1MuupVQZ4yc5oObrcsbEaI/arXVI4EJQKwXYLvj2pHek7krued/NK5yMoRGB+0MyyquI2Df7TkfvRC9YnZlGmMAnnSf71mlBMq58ego4yaZQdYWPYEDeipyo3SNmgF/cLGzuiNjcAAjb965H1hSgdosL53pRJevby/B8cfP19q83jGZFSKP4m3I3GDQ/IzfiQ8j63ZNJ23k7THjXsD+fFMFdWGVIYeorHx2bOB3QM+3Aq6JGtGNzZMIyB8Q/C31A5p1y/ZN8f0auu0t6b1eG9TSxVJgcFdXPuKY5qqd+E2msZ2pUqUQEqVKlYxKlSpWMSqpp44F1SuF9PeuXE6xIfLeBWZk6kGuH7j6t8avSllJIZRseG8kdmIVUiA2J3JpD1i7IDFGOfWuR3cklx2ULGEDLE/tVV5bu4DaRp/FUJNyOmEVD0Vt3XjDaufIrzCLmd+2MbfiPirZtauI0GU8Yozp8UiEl4yRzn0oJDOT+DrWumEfeJNf0/pXiFIYpNaoWYbruNqJmUXVs7QnDjbFU21lPGQZF8+tOoxEfIxp94LwFpVcNjwMilgU3EhbUApPn0q+8vZIY+1DgbgM3kZrytukEBfJbPLH60J0vAx3S+CyjtiS5EgYc+lA3NqiIq/eTqJ4xsKJgk+9NoL/BGMj3obAknWM7seC1C1gUi0SLDEhmCll3FEq4k03SMUP/iRVfXVX7nFgDuAjx+tD28uqyaNtm59uKE1Sw0dDoQGOVfCndz6e1dt5ARKgIIA1UN05O2NMjDSdyc+atlhcz6YQc+vAqdOsGfunFt4Li37hhVjq3Hmioepy9MZUunMts3ys3zoP61xY2gUjIBxvjbJqu6iWQK0irsPhDU0ZOAkoqRpIZo54xJE4dDwRVlZOOabpUvdi3hbGuL+1aWzu4ryBZoGyp/b2rqjJSWHNKLiX1KlSmFJQvULsWds0mMtwq+pomkPXJHkbCDKp4zzSydIaKti5eqyRST/AHk9zV+IbUtk796zPGmEO++1DXFy1zNpAA/DgU3s7WUWqoVy2cZzxXO7Z2qMYLSrpKSKzlsjxv5phO0cMWp3CauSxxXbe17I+I5NK/tIkpgjwmqPJOQPlNPFHPOVsNWFCFcaSBxg52qyWYi2dCrfFxpGay3TLm5t7gCLUVPzDG1aOK67uOD4NaSDF/oGspnglcRjWW3xiu9RE0zwuhdDqw22NNGtBqfuoAD6nxVhZZU+bY8/Wk1Dunoqul7F0kMi9xmIOvOc0xDAbTukcZGMOwH86qfsRwtM6awuwb/FZ/qU/wB8laSGCTA21YJzTKPYVycTUwWduiloiDnyDVU1ukDBwmtvdthWXsZrq3JEbOqt4xtTy3ugVAuAzMf0rONPDRboJjhkvZi0zYAGB6VEHbvmQadHAB9KuN2ix6EGGI22rOdajlW5WUsTGRhfQnzTVboDbWmjlH8RQqqGB3GKNVgJUZx8IG+DWb6bdTmJBKGYrsCabJchl5pao2sKmSOWTU26ehqqYSTgKNOzbGvHUb5IraJHjdi3keDVZ6gkU8aSLg45HDDwcUs03o8C6WSGZNLthlGCG2oWyu5OlXCuuprZ9pM+N651CEOe5Ed2NSC3Z4GgfDMw4NLF9WFrtE2EbrIiuhDKwyCPIr1SD7O3RjaSwlb4o90z5FP6607ORqge+uPu1q8nkDb3NZS4unWz1nbLEE53px125QOluTuF1kAfkP61mZ3LNoJ+FjnepTfwW44/J2OKJJ1MaGQn5jnzT9dKIMAgY80nsGhVe0rYcgk/7jTIsUt4w/xMeQPFLHwpyazyrM1wMkYq2RYp9myccihBOhOFXD+DjcV2NXt5DK5BBHAP6UqbvAdUXGxhAyiYP868okaIyjAIOcVR3GunbEyjTyqtx+VVsTE6nVlQc7mnkgRw8v3xcBACUY8Ci4ioidFxn5ceRXPvUZt5JlGZDt9BXGVu4k6DSSAGHg+lKoqvRnJ+UD3sNxHbqEUuM7gelekjVbdW7YiA/CPxH0ri2tzP1Aym4IjH4c80ZLbKApGSVbOmmX6Ev/oGS1R2LtgsDkkVyWDXcfwgMk/NjgUp6r1KaOcrAwjQ7qF8+9FdM6sGixIP4nDEfzo0/kKmrwKa4fUQ0DOybaloO76rFEynsFj/ALv6UfezrLEO1sSNilKJelXFwEkModNA2PI9qEdehnaVoN/6pbzgLFFo9DRkeJUC8N5pZa9LlALFBgHbPmjIIbhWysqkDw43FCsw39jOSBLm2EbjGPJHFJruJnm1plkTChvp5o547h1w0yhG5VBzXm4029p93jA7j848CtfwNFfQVbIrRB87gDBHk1AUFwWmbQAMZBoTpjSiPS42z+1HT2nfnQkgLnZR5PjNSl+gxx0xfcNcWfVY73OYkYZPG1bNSGUEcHevnfV2uIpSZGOQcEGtr0KY3HR7WRjlu2Afy2/pXTxvDn5Foq+0EyQ3mthvowfes9dyLIncj2WtJ1+3WWdWfJHgVlpo1RpAM6DxSS9Hh4gUSHORz9ac25LRaomOdIyzGk8KfxcDfFNo1aRpAmArKAc0kjouxjYWkYGssWfz6V56jcQrE0OQZBvjP6/tXbF3njZMEYOM8UpvLVu/rmYDDbDO+3mniRkm2KrifTdmW3JVRuvtRazSzxYLAlt9xV/3KK5DFAFm8eAaJg6fG8an5ZNgd/NO2mIotHbIJFa4LapD6naua7qVm1McDxjYVc9hGsmFYs2Mgj1oGbqC2jOkY1aTpf2P/wAKlrdFrilo6gJhQMRmillUnIwccilvTL6K4i+bJzweRR6W0QkeQDdud6KTROTTeii76NbTzPLGzKDvzUgsY1PaVcejY5prIqQowzz60quJ2eRUjPBzn0prdAjFMOWK3gQockEYODVkE0Ts0UYACjbFLxJLcyqAAdPJPmj7K30CWecqoUbY4qXdlnxpLT07M5Mcfw+9WLFpVVJ3HJ9aAt7gm5bQRjgZrl3e3UXUTCkWqMb5xRjpKeDKdhFpjUNlvIqQ2kcbl8FmbnUc0Etyt1cKY2+LG+/mjLafV3FlbZPPrVAK6wviiRXyoGaulIRSwxkDP1qiznW5ywGACcCuiQ3F0YQAFUZpeyNTvSvqtil2G1rnIyPrRv2diaDpSROMFXYY/Oq7m9S2TLAsR6UX0iUzdPSRhglm2/5GqR9JyuinqsYYZbj2rIdWZGkYrxzgeK3F/B37dlBIOORWFe2kVzqBIBxihNaNxsDtXRMnTk42zT2NO1br2AGDblqWRWyB2OSqgZximcYAtFUHSPANJZaVNFiBQyJpYgn4tJq+9ttSjsBSq/vXnp6uNaOMnyTRiRGNT8W3vRiJJ0xPeWgjhSaMFD+JfQ15tkcASKw1cnPmvfUrvUOyfgXkluf0oe113M6lCUhUafrTy1DLFoxibuyBlXSBztyaVdV6LNLPJNbhAjtqIJ3zTh9EJUkY2xkV4uJSnwg+M1K+oGu7wz9nYTxBnyBtxR8dxdLGCCCPc/5q+J1LHA/iHio1lOy65Mn3zTKTYXFRxlR7kz6S+r/14/KrIbZoLeTSAzscDfOa9W4SLaTAHH50asIhjaYSAhfwnyaDTfoe3XwViRIrk28wIcDOwzg0RLL37dQjZzn9qVdVFwWkupcRtqAKg77jOar6belAdR3HmtKH+II8lvRp0i2JnJJK43yf5UF1S/uYZnQnKk4G38qOMqgC4gdsg7qTtSybpcs6d+GQNG7E6WO6n0popJaLyW2FdHurcpqZdEwOB6U6SJBExB16tz70h6dYOrHIzjk08hiZYi2dgOKDaQqTL7aMNFrC6SOa7ZSot1K++CME+M14S6R4GVDgjYj0rqaWRVGBkcCpVqopbp2eroQldc8gjTJ3NN+mqq2EWkYVhqH5nP8AWkXU7IXHTe0pPcXcE0/so+zZW8YIISNV29hV4IhJ4XkZGKz3VLZreYy7GJjuPStFVF1bpcxNG65DDFUasWLpmRgt1+JmIYGrY0a5EsZxGsJ2J9KDu4Z+lXXbALryuRswq1b8TRMf9J/INQki8XR6TqDQTESYbbkbUzhleVMkhlPtWfMAVhcRsZnz/paaLterFImWSLSUO4zjAoRKTj2/1DZbOB2eR4xnnbzQlrHIrM+0aA8ev0oiLqEN3rCEgDnIqNcR/d30sM5GD5/KmbJxi/GBX7NdSqYy+OME8VcbVxbpExLec1bEAV7kmFx+9E5+APk49KVK1o19XSK4rdFGrtgEYwPSjEy64YY/lVWoYyDj1HrVkUgwdXHpT4I7Ynu9p2VVyeOKMjWR4gmPc5qqaf8A/dggSKPAFXRy9twzN8LfCM+D6UHpR4DdU6Z/1CJHdjFMBg4GQ2KVw9FKuEV9RIz7VpmTuxFJCSCORSiBb0XLYTESnYttWt0SVXaKk6fMoEZBx5FMIrU21mWIyfSju4iRBnwxPkeKAjlknvQsUnciGScDbFLJ0qKxTlrKY2eSXQiaUHJG2RTAyCULDGdyMb+a9qkNocuAxxzxS8ytPcaYmABO2N8VNxSGtzZclrpRcHdydQ8UVHCkaZiOCNyDQR6klrGwcmaXJ2AwBS6fqFxcL/DPaUnlDTxXyTnbw0JmDQ6dP8R/hUepNObaLsW0UROSiBc+uBWd6X0ie5uYb25nk7MJzFG2QX9CfatNXRHw55HalSpTCg17ZpeQtG42YVl77pb25Y6RpXg8frWxqqWFJVIYA59qWUUxoyaMfDDGWXQ+GI4BzQlx06XuO+GY53Ap/ddGMMpltnKHwuMr/igri6ntQqtGxBOGaouDReHJTwWQ9OvQjFIyoY8ZwK8zpLCqROrLGDkkDg/Wm1pPG2XeQrnOAa83EZnjOMNnyODQor+Z34VR28EcayNMshIzp5q2G41oxwQq7fSkk6XFtLgbqPTxRcHV3jRo5IUwfON6Wmgtd9DUuNPxKQ4zuBvgVd3QZ89wAKMlaX2Msctwe6yqMZAY0bFLapMQURT/AOWdqVthqvg4rn7wZQgyDsD5rtzAZGEkI+AHOD60eJLZE1OwLeBSi8vVLhYDpOePWipUqQvVtjaORktgZU0seAD4pW5e4nxG7DVV9vLLNhZ1LOBznAA+lXLYvHGe2VVuQaGtgyIHdwizVF+fI5fg0bavDbwKRpViMtmgWsrmZh3JUcjjPNELZxwR4uZSzMMFcbCtTGbj8sHu7iO60xRA6yfBouxhHT45Z5RlzsCfSvNv92G8elNBwdRouazuLwh4ocqdgXbSPrinjASXIqpeCa8SOTVd3LCND8qjmm3RejpMiXM8ZWL5ooj5Hhm/tRtj0G2iTVeRx3M55Z1yF9AAeKbAYG1XjGvTnlO8RMV2pUpyZKlSpWMSpUqVjHCARgjahZ7JZR8OM+h4oupWMZu96NqB2KZ8jihUt7i2XSvxjwQa11UyWsUnzIPqNqHVMZSZibyRyR3Y2z5IFVH7tKpVo8bfNgA1spOmI3yuf+QzQsnRM8do/UEUvRDLkaMxBbWsR1vNkjkeoqS263Uxe3lCR+jHBFPn6Cx/7UZ+j/4qk/ZxydolH/OlfEVX8hoXSWHZhDyThj4waEt7qJWZu0pIO2T5p232Znkx8aJ/zP8Aauw/ZHScvcgeyrxQ/EF/yGwSC7lnmj0lbcJ8Umw3rt31IRnCNrY8Y3pxD9mbGM5kMkp92wP2plb2Vtbf6EMae4XeiuOiT5LMrFZdTuyJEgdMDILHRn9aOh6RfXmFv9EEa7YU6mNaSpT9UJ2YosPs/aWMvdBklk9ZDkD3xTeuV2moX0lSpUrGJUqVKxj/2Q=="
-    },
-    {
+      
       "Nome": "Capricciosa",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi",
-      "Link_Foto": "https://primochef.it/wp-content/uploads/2018/05/SH_pizza_capricciosa.jpg"
+      "Normale": "7",
+      "Familiare": "14",
+      "Link_Foto":
+"https://primochef.it/wp-content/uploads/2018/05/SH_pizza_capricciosa.jpg
     },
     {
-      "Nome": "4 stagioni",
+      "Nome": "4 gusti",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi, Carciofi, Salamino",
-      "Link_Foto": "https://i1.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2016/07/3017_Pizza.jpg?resize=895%2C616&ssl=1"
+      "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi, wurstel",
+      "Normale": "6",
+      "Familiare": "12",
+      "Link_Foto":
+"https://i1.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2016/07/3017_Pizza.jpg?resize=895%2C616&ssl=1
+   
+   
     },
     {
-      "Nome": "Prosciutto",
+      "Nome": "Mari",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Prosciutto",
-      "Link_Foto": "https://www.galbani.it/img_din/pizza_prosciutto_cotto_funghi_mobile.jpg"
+      "Ingredienti": "Pomodoro, Mozzarella, wurstel, rucola",
+      "Normale": "6",
+      "Familiare": "9",
+      "Link_Foto":
+"https://www.petitchef.it/imgupl/recipe/pizza-ai-wurstel--455630p707849.jpg"
     },
     {
-      "Nome": "Prosciutto e funghi",
-      "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Prosciutto, Funghi",
-      "Link_Foto": "https://www.checucino.it/wp-content/uploads/2018/11/iStock-1012539510.jpg"
-    },
-    {
-      "Nome": "Wurstel",
-      "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, wurstel",
-      "Link_Foto": "https://www.petitchef.it/imgupl/recipe/pizza-ai-wurstel--455630p707849.jpg"
-    },
-    {
-      "Nome": "Salamino piccante",
+      "Nome": "Diavola",
       "Categoria": "Pizza",
       "Ingredienti": "Pomodoro, Mozzarella, Salamino piccante",
-      "Link_Foto": "https://vivere.meglio.it/wp-content/uploads/2011/07/Depositphotos_8629462_s-2015.jpg"
+      "Normale": "7",
+      "Familiare": "14",
+      "Link_Foto":
+"https://vivere.meglio.it/wp-content/uploads/2011/07/Depositphotos_8629462_s-2015.jpg"
     },
     {
-      "Nome": "Siciliana",
+      "Nome": "A Campagnola",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Acciughe, Capperi, olive",
-      "Link_Foto": "https://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/03/s-evid.jpg"
-    },
-    {
-      "Nome": "Scogliera",
-      "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Frutti di Mare",
-      "Link_Foto": "https://media-cdn.tripadvisor.com/media/photo-s/08/00/25/11/pizza-scogliera.jpg"
+      "Ingredienti": "Pomodoro, Mozzarella, peperoni, salsiccia ",
+      "Normale":" 7",
+      "Familiare":"12",
+      "Link_Foto":
+"https://blog.giallozafferano.it/isaporidiethra/wp-content/uploads/2015/02/IMG-20150216-WA0017.jpg"
+    
     },
     {
       "Nome": "4 formaggi",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Zola, Scamorza, Grana",
-      "Link_Foto": "https://primochef.it/wp-content/uploads/2020/04/SH_pizza_quattro_formaggi.jpg"
+      "Ingredienti": " Mozzarella, emmenthal,, gorgonzola, parmigiano o caciocavallo ",
+      "Normale":"6",
+      "Familiare": "12",
+      "Link_Foto":
+"https://primochef.it/wp-content/uploads/2020/04/SH_pizza_quattro_formaggi.jpg"
     },
     {
-      "Nome": "Americana",
+      "Nome": "Nene",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Patatine, Wurstel",
-      "Link_Foto": "https://www.ristorantepizzeriajanna.com/wp-content/uploads/2015/10/pizza-americana-brescia_opt.jpg"
+      "Ingredienti": "Pomodoro, Mozzarella, Patatine",
+      "Normale": "6",
+      "Familiare": "12",
+      "Link_Foto":
+"https://www.ristorantepizzeriajanna.com/wp-content/uploads/2015/10/pizza-americana-brescia_opt.jpg"
+    
     },
     {
-      "Nome": "Mare e monti",
+      "Nome": "Trinacria",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Porcini, Frutti di mare",
-      "Link_Foto": "https://wips.plug.it/cips/buonissimo.org/cms/2011/09/pizza-mari-e-monti.jpg?w=541&a=c&h=309"
+      "Ingredienti": "Pomodoro, Mozzarella, Prosciutto Cotto, wurstel, peperoni, salame piccante, cipolla, olive",
+      "Normale": "8",
+      "Familiare": "14",
+      "Link_Foto":
+"https://i0.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2016/12/3018_Pizza.jpg?resize=895%2C616&ssl=1"
     },
     {
-      "Nome": "Calamari",
+      "Nome": "La fattoria",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Calamari",
-      "Link_Foto": "https://blog.giallozafferano.it/dolcesalatomiky/wp-content/uploads/2014/10/DSC_0143-2.jpg"
-    },
-    {
-      "Nome": "Tonno",
+      "Ingredienti": "Pomodoro, Mozzarella,   prosciutto cotto, pesto, funghi",
+      "Normale": "6",
+      "Familiare": "12",
+      "Link_Foto":
+"https://www.pistacchissimo.it/images/pizze/pizza-crudolosa-pistacchio-gusti-siciliani-catania.jpg"
+     },
+     {
+      "Nome": "Oasi",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Tonno, Mozzarella, Cipolla",
-      "Link_Foto": "https://blog.giallozafferano.it/dulcisinforno/wp-content/uploads/2014/09/2484pizza-tonno-cipolla.jpg"
-    },
-    {
-      "Nome": "Rucola",
+      "Ingredienti": "Pomodoro, Mozzarella,   prosciutto cotto, salame Milano, gorgonzola" ,
+      "Normale": "7",
+      "Familiare": "12",
+      "Link_Foto":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTi1wGYJ_CCF3z_s9BwlYYT4s5UymDIsesqOw&usqp=CAU"
+     },
+     {
+      "Nome": "Esotica",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Rucola, Prosciutto Crudo, Grana",
-      "Link_Foto": "https://i0.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2016/12/3018_Pizza.jpg?resize=895%2C616&ssl=1"
-    },
-    {
-      "Nome": "Vegetariana",
+      "Ingredienti": "Pomodoro, Mozzarella, ananas" ,
+      "Normale": "6",
+      "Familiare": "12",
+      "Link_Foto":
+"https://www.dissapore.com/wp-content/uploads/2017/06/ananas-pizza.png"
+     },
+     {
+      "Nome": "Biancaneve",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Zucchine, Melanzane, Peperoni",
-      "Link_Foto": "data:image/jpeg;base64,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"
-    },
-    {
-      "Nome": "Novarese",
+      "Ingredienti": "Mozzarella, olio d' oliva " ,
+      "Normale": "4",
+      "Familiare": "7",
+      "Link_Foto":
+"https://vivere.meglio.it/wp-content/uploads/2011/07/Depositphotos_15420593_s-2015.jpg"
+     },
+     {
+      "Nome": "Crudelia",
       "Categoria": "Pizza",
-      "Ingredienti": "Pomodoro, Mozzarella, Gorgonzola",
-      "Link_Foto": "https://www.petitchef.it/imgupl/recipe/pizza-al-gorgonzola--450185p695925.jpg"
+      "Ingredienti": "Mozzarella, prosciutto crudo " ,
+      "Normale": "6",
+      "Familiare": "13",
+      "Link_Foto":
+"https://blog.giallozafferano.it/lericettediesmeralda/wp-content/uploads/2017/07/FB_IMG_1499203898170.jpg"
+     },
+     {
+      "Nome": "Pizza sfincione",
+      "Categoria": "Pizza",
+      "Ingredienti":"Mozzarella, cipolla, mollica con olio di oliva, ricotta o primo sale " ,
+      "Normale": "8",
+      "Familiare": "14",
+      "Link_Foto":
+"https://www.misya.info/wp-content/uploads/2018/12/sfincione-palermitano.jpg"
+     },
+     {
+      "Nome": "A casereccia",
+      "Categoria": "Pizza",
+      "Ingredienti":"pomodoro, acciughe, cipolla, caciocavallo" ,
+      "Normale": "3.50",
+      "Familiare": "7",
+      "Link_Foto":
+"https://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/03/s-evid.jpg"
+     },
+     {
+      "Nome": "A vampa",
+      "Categoria": "Pizza",
+      "Ingredienti":"pomodoro, mozzarella, prosciutto cotto, wurstel , salame piccante, olio di peperoncino " ,
+      "Normale": "7",
+      "Familiare": "12",
+      "Link_Foto":
+"https://lh3.googleusercontent.com/proxy/HSHZuXYtqBKFMm8q93xi3yqhF6c5LchrW91PUn8OOOo_Q-G4Y5zz7VOmRCdMkslEu00I52KNFA64cgSJ1s3Blg2YwjwnexSOQ97997O6KXl9xfENUuS7PSH9uryGrGHw9PCE"
+     },
+     {
+      "Nome": "Specialità del pizzaiolo",
+      "Categoria": "Pizza",
+      "Ingredienti":"pomodoro, mozzarella, prosciutto crudo, rucola, scaglie di formaggio" ,
+      "Normale": "8",
+      "Familiare": "15",
+      "Link_Foto":
+"https://i0.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2016/12/3018_Pizza.jpg?resize=895%2C616&ssl=1"
+     },
+     {
+      "Nome": "Totuccio",
+      "Categoria": "Pizza",
+      "Ingredienti":"pomodorini, mozzarella, funghi, radicchio, rucola" ,
+      "Normale": "7",
+      "Familiare": "10",
+      "Link_Foto":
+"https://www.alice.tv/img/cache/share/media/ricette/ajcxkqd/pizza-rucola.jpg"
+     },
+     {
+      "Nome": "Braccio di ferro",
+      "Categoria": "Pizza",
+      "Ingredienti":"pomodoro, mozzarella, spinaci, funghi, parmigiano" ,
+      "Normale": "6",
+      "Familiare": "10",
+      "Link_Foto":
+"https://wips.plug.it/cips/buonissimo.org/cms/2011/10/pizza-agli-spinaci-ed-ai-pinoli.jpg?w=712&a=c&h=406"
+     },
+     {
+      "Nome": "Nostrana",
+      "Categoria": "Pizza",
+      "Ingredienti":"pomodoro, mozzarella, melanzane, parmigiano, basilico" ,
+      "Normale": "6",
+      "Familiare": "12",
+      "Link_Foto":
+"https://www.silviocicchi.com/pizzachef/wp-content/uploads/2016/12/pizza_parmigiana-front-672x372.jpg"
+     },
+     {
+      "Nome": "Primavera",
+      "Categoria": "Pizza",
+      "Ingredienti":"pomodoro a fette, speck , cipolla, mozzarella " ,
+      "Normale": "7",
+      "Familiare": "12",
+      "Link_Foto":
+"https://lh3.googleusercontent.com/proxy/6YrmnEnJNB5xZxUp2z0npTo4pnyh0brrvyzZp-ZMVDCUCfsI1n0XBk8wyeoT0_Bcc-ZrkB_Vqg65n-Tx_mxz9oFv-l48E2xbq-AUlkOZzSBkn1lj5v16149kY2HXnGHcmNIevYU"
+     },
+     {
+      "Nome": "Pizza Palagonia",
+      "Categoria": "Pizza",
+      "Ingredienti":"pomodoro, speck , funghi, mozzarella, salame piccante, pancetta " ,
+      "Normale": "8",
+      "Familiare": "14",
+      "Link_Foto":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8yrc-G9lD4q1dBxDXzNZIs8VNj2ENGlgE6A&usqp=CAU"
+      },
+      {
+       "Nome": "Pizza Valguarnera",
+       "Categoria": "Pizza",
+       "Ingredienti":" pomodoro, mozzarella, funghi, wurstel, salsiccia, tonno, parmigiano" ,
+       "Normale": "7",
+       "Familiare": "14",
+       "Link_Foto":
+"https://media-cdn.tripadvisor.com/media/photo-s/07/8e/d4/27/pizza-wurstel-e-tonno.jpg"
+      },
+      {
+       "Nome": "Pizza Cattolica",
+       "Categoria": "Pizza",
+       "Ingredienti":" mozzarella, lattuga cristallina, acciughe, capperi, olio di oliva " ,
+       "Normale": "5",
+       "Familiare": "10",
+       "Link_Foto":
+"https://blog.giallozafferano.it/lericettediziasimona/wp-content/uploads/2018/01/pizza-senza-glutine.jpg"
+      },
+      {
+       "Nome": "Pizza Trabia",
+       "Categoria": "Pizza",
+       "Ingredienti":" mozzarella, funghi, panna, parmigiano, origano  " ,
+       "Normale": "6",
+       "Familiare": "10",
+       "Link_Foto":
+"https://www.petitchef.it/imgupl/recipe/pizza-ai-funghi-freschi--455627p707846.jpg"
+      },
+      {
+       "Nome": "Schiacciata cutó",
+       "Categoria": "Pizza",
+       "Ingredienti":" mozzarella, pomodoro a fette, lattuga, olio di oliva, sale, pepe, origano" ,
+       "Normale": "7",
+       "Familiare": "10",
+       "Link_Foto":
+"https://www.lacucinadibacco.it/wp-content/uploads/2018/07/Facaccia-pomodoro-lattuga-maionese-e-tonno.jpg"
+      },
+      {
+       "Nome": "Schiacciata Butera",
+       "Categoria": "Pizza",
+       "Ingredienti":" mozzarella, pomodoro, pomodoro a fette, olio, sale, origano " ,
+       "Normale": "6",
+       "Familiare": "10",
+       "Link_Foto":
+"https://wips.plug.it/cips/buonissimo.org/cms/2012/11/pizza-al-pomodoro.jpg?w=712&a=c&h=406"
+       },
+       {
+        "Nome": "Marinara",
+        "Categoria": "Pizza",
+        "Ingredienti":" pomodoro, aglio, peperoncino, basilico  " ,
+        "Normale": "3.50",
+        "Familiare": "8",
+        "Link_Foto":
+"https://www.lospicchiodaglio.it/img/ricette/pizza-marinara.jpg"
+       },
+       {
+        "Nome": "Sbirulina",
+        "Categoria": "Pizza",
+        "Ingredienti":" Nutella, mandorle, zucchero a velo" ,
+        "Normale": "5",
+        "Familiare": "9",
+        "Link_Foto":
+"https://www.misya.info/wp-content/uploads/2019/07/pizza-alla-nutella.jpg"
+       },
+       {
+        "Nome": "la fattoria 2",
+        "Categoria": "Pizza",
+        "Ingredienti":" pomodoro, mozzarella, salame Milano, olive, pancetta, pomodoro a fette, funghi " ,
+        "Normale": "7",
+        "Familiare": "13",
+        "Link_Foto":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8JUOj1MTNHZNPkO4GhotCn3Wu-7wSQIiSZg&usqp=CAU"
+       },
+       {
+        "Nome": "Genovese",
+        "Categoria": "Pizza",
+        "Ingredienti":" mozzarella, pomodorini, prosciutto cotto, emmenthal, pesto " ,
+        "Normale": "7",
+        "Familiare": "12",
+        "Link_Foto":
+"https://www.chefsilvia.it/media/zoo/images/pizza-prosciutto-rucola_37cd73fe0f2ad960a7a9754dec3fb314.jpg"
+       },
+       {
+        "Nome": "Nonnina",
+        "Categoria": "Pizza",
+        "Ingredienti":" tonno, pesto, olive, Emmental, parmigiano" ,
+        "Normale": "6",
+        "Familiare": "10",
+        "Link_Foto":
+"https://media-cdn.tripadvisor.com/media/photo-s/09/1e/03/b1/trattoria-pizzeria-l.jpg"
+       },
+       {
+        "Nome": "Moffoletto Menù",
+        "Categoria": "Pizza",
+        "Ingredienti":" pomodoro, mozzarella, prosciutto cotto, wurstel " ,
+        "Prezzo": "3",
+        "Link_Foto":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-nwU9AwREuTVsd4gLbEBcHxpkRFpmghBA8A&usqp=CAU"
+       },
+       {
+        "Nome": "Calzone",
+        "Categoria": "Pizza",
+        "Ingredienti":" pomodoro, prosciutto cotto, mozzarella, wurstel " ,
+        "Prezzo": "6",
+        "Link_Foto":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIgNpN-zFa84AnYGTUFeo0LcCivac6tnoeWw&usqp=CAU"
+       },
+       {
+        "Nome": "Brigida",
+        "Categoria": "Pizza",
+        "Ingredienti":"mozzarella, Emmental, pomodorini, parmigiano " ,
+        "Normale": "6",
+        "Familiare": "10",
+        "Link_Foto":
+"https://media-cdn.tripadvisor.com/media/photo-s/04/15/ff/a5/pizza-brigida.jpg"
+       },
+       {
+        "Nome": "Vegeteriana",
+        "Categoria": "Pizza",
+        "Ingredienti":"mozzarella, pomodoro, funghi, melenzane, peperoni, cipolla " ,
+        "Normale": "7",
+        "Familiare": "12",
+        "Link_Foto":
+"https://www.leitv.it/wp-content/uploads/2014/09/pizza-vegetariana-ricetta-1.jpg?v=1375"
+       },
+       {
+        "Nome": "Salmone",
+        "Categoria": "Pizza",
+        "Ingredienti":"mozzarella, pomodoro, salmone " ,
+        "Normale": "8",
+        "Familiare": "15",
+        "Link_Foto":
+"https://www.fragolosi.it/wp-content/foto-ricetta/2018/10/Pizza-al-Salmone.jpg"
+       },
+       {
+        "Nome": "Pizza sfiziosa",
+        "Categoria": "Pizza",
+        "Ingredienti":"mozzarella, mozzarella di bufala, pistacchio, prosciutto cotto " ,
+        "Normale": "8",
+        "Familiare": "15",
+        "Link_Foto":
+"https://www.fragolosi.it/wp-content/foto-ricetta/2018/10/Pizza-al-Pistacchio.jpg"
+   
+   
     }
-  ]
-}
+    ]
+  }
