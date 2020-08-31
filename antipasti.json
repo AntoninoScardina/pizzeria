@@ -99,7 +99,7 @@
       {
         "Nome": " Patatine Fritte ",
         "Categoria": "Antipasto",
-        "Porzione": "1",
+        "Porzione": "Porzione per una persona",
         "Prezzo": "2",
         "Link_Foto":
 "https://www.ricettedigusto.info/wp-content/uploads/2016/02/Patate-fritte-croccanti.jpg"
@@ -107,14 +107,14 @@
       {
         "Nome": " Crocché di patate",
         "Categoria": "Antipasto",
-        "Porzione": "1",
+        "Porzione": "Porzione per una persona",
         "Prezzo": "2",
         "Link_Foto":"https://blog.giallozafferano.it/mastercheffa/wp-content/uploads/2018/01/cazzilli.jpg"
       },
       {
         "Nome": " Panelle",
         "Categoria": "Antipasto",
-        "Porzione": "1",
+        "Porzione": "Porzione per una persona",
         "Prezzo": "2",
         "Link_Foto":
 "https://www.tavolartegusto.it/wp/wp-content/uploads/2020/05/Panelle-Ricetta-Panelle-siciliane.jpg"
@@ -122,7 +122,7 @@
       {
         "Nome": " Wurstel Arrostiti",
         "Categoria": "Antipasto",
-        "Porzione": "1",
+        "Porzione": "Porzione per una persona",
         "Prezzo": "3",
         "Link_Foto":
 "https://static.agrodolce.it/app/uploads/2018/01/shutterstock_214432204-640x427.jpg"
@@ -130,7 +130,7 @@
       {
         "Nome": " Patate e salsiccia arrostita",
         "Categoria": "Antipasto",
-        "Porzione": "1",
+        "Porzione": "Porzione per una persona",
         "Prezzo": "4",
         "Link_Foto":
 "https://images.fidhouse.com/fidelitynews/wp-content/uploads/sites/6/2016/07/1469178593_74060a7e73b20dcb5b0b11c6ce27633e38bf49e9-235775780.jpg"
@@ -138,7 +138,7 @@
      {
         "Nome": " Insalata di mare ",
         "Categoria": "Antipasto",
-        "Porzione": "1",
+        "Porzione": "Porzione per una persona",
         "Prezzo": "5",
         "Link_Foto":
 "https://www.misya.info/wp-content/uploads/2009/05/insalata-di-mare.jpg"
@@ -146,7 +146,7 @@
      {
         "Nome": " Caponata siciliana",
         "Categoria": "Antipasto",
-        "Porzione": "1",
+        "Porzione": "Porzione per una persona",
         "Prezzo": "4",
         "Link_Foto":
 "https://www.tavolartegusto.it/wp/wp-content/uploads/2019/07/Caponata-Ricetta-Caponata-siciliana-.jpg"
@@ -154,7 +154,7 @@
      {
         "Nome": " Misto caldo",
         "Categoria": "Antipasto",
-        "Porzione": "1",
+        "Porzione": "Porzione per una persona",
         "Prezzo": "4",
         "Link_Foto":
 "https://media-cdn.tripadvisor.com/media/photo-s/12/08/aa/96/misto-caldo.jpg"
