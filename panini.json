@@ -1,165 +1,140 @@
 {
   "results": [
     {
-      "Nome": "Antipasto all' Italiana",
-      "Categoria": "Antipasto",
-      "Ingredienti": "prosciutto crudo, prosciutto cotto, Emmenthal, grana, olive, sal. Milano, sal. Piccante",
-      "Prezzo": "6",
+      "Nome": "Cartoccio",
+      "Categoria": "Panino",
+      "Ingredienti": "Prosciutto cotto , Fior di latte, salsa rosa ",
+      "Prezzo": "3€",
       "Link_Foto": 
-"https://mediterraneastore.com/wp-content/uploads/2019/12/tagliere-salumi-formaggi.jpg"
+"https://anticapanelleriasciacca.weebly.com/uploads/2/1/8/0/21807516/1374312602.jpg"
     },
     {
-      "Nome": "Insalata Verde",
-      "Categoria": "Antipasto",
-      "Ingredienti": "pomodorini, lattuga, funghi",
-      "Prezzo": "4",
+      "Nome": "Topolino",
+      "Categoria": "Panino",
+      "Ingredienti": "Prosciutto cotto, wurstel, salsa rosa, mozzarella ",
+      "Prezzo": "3€",
       "Link_Foto": 
-"https://www.lospicchiodaglio.it/img/ricette/insalatapomodorinifoglielattuga.jpg"
+"https://www.ilparadisodellagastronomia.it/wp-content/uploads/2020/07/F2A1576C-C336-4F37-9B18-A5FBC70D8EA0.jpeg"
     },
     {
-      "Nome": "Insalata Tonnata",
-      "Categoria": "Antipasto",
-      "Ingredienti": "pomodorini, mais, tonno",
-      "Prezzo": "4",
+      "Nome": "Fattoria",
+      "Categoria": "Panino",
+      "Ingredienti": "Prosciutto cotto, mozzarella, olive, funghi, salame piccante, salsa rosa"
+      "Prezzo": "3€",
       "Link_Foto": 
-"https://blog.giallozafferano.it/cucinafacileconelena/wp-content/uploads/2017/07/insalata-tonnata-2.jpg"
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQndzz5EhIlpkUIQVNqcTEM_a7SIhB-90V97A&usqp=CAU"
     },
     {
-      "Nome": "Insalata primavera ",
-      "Categoria": "Antipasto",
-      "Ingredienti": " insalata, lattughe, olive, carciofi ",
-      "Prezzo": "5",
+      "Nome": "Hot Dog",
+      "Categoria": "Panino",
+      "Ingredienti": " wurstel, Ketchup ",
+      "Prezzo": "2€",
       "Link_Foto": 
-"https://www.gustissimo.it/articoli/ricette/insalate/insalata-primavera.jpg"
+"https://static.cookist.it/wp-content/uploads/sites/21/2018/07/istock-808157884.jpg"
     },
     {
-      "Nome": " insalata classica",
-      "Categoria": "Antipasto",
-      "Ingredienti": " lattuga, olio, sale, pepe, origano, aceto",
-      "Prezzo": "3.50",
-      "Link_Foto":
-"https://www.pizzeriathekiss.it/wp-content/uploads/2015/09/logo-6.jpg"
+      "Nome": "4 formaggi",
+      "Categoria": "Panino",
+      "Ingredienti": "Mozzarella, Provola, Hemmental, Gorgonzola"
+      "Prezzo": "2.50€",
+      "Link_Foto": 
+"https://chefincamicia.com/wp-content/uploads/2017/09/Panino-ai-4-formaggiFB.jpg"    
      },
      {
-      "Nome": " insalata fattoria ",
-      "Categoria": "Antipasto",
-      "Ingredienti": " funghi, rucola, scaglie di grana, olio, sale, pepe, pomodorini ",
-      "Prezzo": "5",
-      "Link_Foto":
-"https://blog.giallozafferano.it/studentiaifornelli/wp-content/uploads/2014/06/insalata-con-pomodorini-rucola-e-grana-a-scaglie-ricetta-insalata-fresca-estiva.jpg"
-      },
-      {
-       "Nome": " Bruschetta zza pippina",
-       "Categoria": "Antipasto",
-       "Ingredienti": " Pomodoro, aglio, olio, basilico, sale, pepe ",
+       "Nome": "Mary",
+       "Categoria": "Panino",
+       "Ingredienti": "Salsiccia, patatine"
+       "Prezzo": "3€",
+       "Link_Foto":
+"data:image/jpeg;base64,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"
+     },
+     {
+       "Nome": "Nostrano",
+       "Categoria": "Panino",
+       "Ingredienti": "Prosciutto cotto, mozzarella, melenzane, ketchup"
+       "Prezzo": "3€",
+       "Link_Foto":
+"https://www.quickermenu.it/boxburger/wp-content/uploads/sites/7/2019/09/hamburger_nostrano-boxburger.jpg"
+     },
+     {
+       "Nome": "Vally",
+       "Categoria": "Panino",
+       "Ingredienti": "Pancetta, mozzarella, olive, tabasco "
        "Prezzo": "3",
        "Link_Foto":
-"https://media-cdn.tripadvisor.com/media/photo-s/14/1e/45/da/bruschetta.jpg"
-      },
-      {
-       "Nome": " Bruschetta zza ciccina",
-       "Categoria": "Antipasto",
-       "Ingredienti": " paté di olive, capperi, tonno",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjifcvycbOiAfGVUhM9STNIbr-SFoNElsgrQ&usqp=CAU"
+    },
+    {
+       "Nome": "Piné",
+       "Categoria": "Panino",
+       "Ingredienti": "Salsiccia, funghi, peperoncino"
+       "Prezzo": "2.50",
+       "Link_Foto":
+"https://www.piattifacili.com/wordpress/wp-content/uploads/2011/09/panino-salsiccia-cipolla1.jpg"
+    },
+    {
+       "Nome": "Ninny",
+       "Categoria": "Panino",
+       "Ingredienti": "Wurstel, funghi, salsa rosa"
+       "Prezzo": "2.50",
+       "Link_Foto":
+"https://media-cdn.tripadvisor.com/media/photo-s/08/bb/c8/22/johnny-s-irish-pub.jpg"
+    },
+    {
+       "Nome": "Crudele",
+       "Categoria": "Panino",
+       "Ingredienti": "Tonno, cipolla, prosciutto, Hemmental"
        "Prezzo": "3",
        "Link_Foto":
-"https://www.gustissimo.it/articoli/ricette/bruschette-crostini/bruschetta-con-tonno-e-pomodorini.jpg"
-      },
-      {
-        "Nome": " Bruschetta u picuraru ",
-        "Categoria": "Antipasto",
-        "Ingredienti": " tuma, cipolla cotta, gorgonzola, acciughe  ",
-        "Prezzo": "4",
-        "Link_Foto":
-"https://blog.giallozafferano.it/asilannablu/wp-content/uploads/2015/12/L-antipasto-mozzarella-e-acciughe-La-cucina-di-ASI-%C2%A9-2015-BLOG.jpg"
-      },
-      {
-        "Nome": " Bruschetta al tonno ",
-        "Categoria": "Antipasto",
-        "Ingredienti": " tonno, pomodoro, aglio olio, sale , pepe ",
-        "Prezzo": "3",
-        "Link_Foto":
-"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPZc4ibjDkC_flEHB_4TaMAQNEruJVzzbY2g&usqp=CAU"
-      },
-      {
-        "Nome": " Focacce con ricotta ",
-        "Categoria": "Antipasto",
-        "Ingredienti": " Ricotta fresca, olio, sale, pepe, scaglie di grana",
-        "Prezzo": "3",
-        "Link_Foto":
-"https://blog.giallozafferano.it/ricettechepassione/wp-content/uploads/2019/01/focaccia-ricotta-e-provola-v.jpg"
-      },
-      {
-        "Nome": " Funghi ripieni ",
-        "Categoria": "Antipasto",
-        "Ingredienti": " mollica, prosciutto cotto, salame piccante, mozzarella, caciocavallo, olio, sale, pepe origano ",
-        "Prezzo": "3",
-        "Link_Foto":
-"https://www.siciliafan.it/wp-content/uploads/2019/10/Funghi-Ripieni-alla-Siciliana.jpg"
-      },
-      {
-        "Nome": " Patatine Fritte ",
-        "Categoria": "Antipasto",
-        "Porzione": "1",
-        "Prezzo": "2",
-        "Link_Foto":
-"https://www.ricettedigusto.info/wp-content/uploads/2016/02/Patate-fritte-croccanti.jpg"
-      },
-      {
-        "Nome": " Crocché di patate",
-        "Categoria": "Antipasto",
-        "Porzione": "1",
-        "Prezzo": "2",
-        "Link_Foto":
-"https://blog.giallozafferano.it/mastercheffa/wp-content/uploads/2018/01/cazzilli.jpg"
-      },
-      {
-        "Nome": " Panelle",
-        "Categoria": "Antipasto",
-        "Porzione": "1",
-        "Prezzo": "2",
-        "Link_Foto":
-"https://www.tavolartegusto.it/wp/wp-content/uploads/2020/05/Panelle-Ricetta-Panelle-siciliane.jpg"
-      },
-      {
-        "Nome": " Wurstel Arrostiti",
-        "Categoria": "Antipasto",
-        "Porzione": "1",
-        "Prezzo": "3",
-        "Link_Foto":
-"https://static.agrodolce.it/app/uploads/2018/01/shutterstock_214432204-640x427.jpg"
-      },
-      {
-        "Nome": " Patate e salsiccia arrostita",
-        "Categoria": "Antipasto",
-        "Porzione": "1",
-        "Prezzo": "4",
-        "Link_Foto":
-"https://images.fidhouse.com/fidelitynews/wp-content/uploads/sites/6/2016/07/1469178593_74060a7e73b20dcb5b0b11c6ce27633e38bf49e9-235775780.jpg"
+"https://cdn.dotache.io/98b1538dd0e545c79a0ae0fa1e728af7/wp-content/uploads/2020/03/video-ricette-logo-rotondo-panino-tonno.png"
      },
      {
-        "Nome": " Insalata di mare ",
-        "Categoria": "Antipasto",
-        "Porzione": "1",
-        "Prezzo": "5",
-        "Link_Foto":
-"https://www.misya.info/wp-content/uploads/2009/05/insalata-di-mare.jpg"
+       "Nome": "Jeans",
+       "Categoria": "Panino",
+       "Ingredienti": "Prosciutto crudo, mozzarella"
+       "Prezzo": "2.50",
+       "Link_Foto":
+"https://static.cookist.it/wp-content/uploads/sites/21/2018/12/istock-160385863-638x425.jpg"
      },
      {
-        "Nome": " Caponata siciliana",
-        "Categoria": "Antipasto",
-        "Porzione": "1",
-        "Prezzo": "4",
-        "Link_Foto":
-"https://www.tavolartegusto.it/wp/wp-content/uploads/2019/07/Caponata-Ricetta-Caponata-siciliana-.jpg"
+       "Nome": "Campagnolo",
+       "Categoria": "Panino",
+       "Ingredienti": "Pancetta, caciocavallo, acciughe"
+       "Prezzo": "2.50",
+       "Link_Foto":
+"https://www.mindujo.it/wp-content/uploads/2020/01/Conzativicci-1024x1024.jpg"
      },
      {
-        "Nome": " Misto caldo",
-        "Categoria": "Antipasto",
-        "Porzione": "1",
-        "Prezzo": "4",
-        "Link_Foto":
-"https://media-cdn.tripadvisor.com/media/photo-s/12/08/aa/96/misto-caldo.jpg"
-
-     }
+       "Nome": "Vastella",
+       "Categoria": "Panino",
+       "Ingredienti": "Olio, sale, pepe"
+       "Prezzo": "1",
+       "Link_Foto":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNRCpXjay2kZRAb1znmgYpv7A0IM3SzpjM3g&usqp=CAU"
+     },
+     {
+       "Nome": "Vastella con ricotta",
+       "Categoria": "Panino",
+       "Ingredienti": "sale, pepe, caciocavallo, ricotta"
+       "Prezzo": "2.50",
+       "Link_Foto":
+"https://cdn.ultimenotizieflash.com/wp-content/uploads/2016/09/14165902/Schermata-2016-09-15-alle-11.54.00.png"
+      },
+      {
+       "Nome": "Rustico",
+       "Categoria": "Panino",
+       "Ingredienti": "Prosciutto cotto, mozzarella, pomodoro a fette, lattuga "
+       "Prezzo": "3",
+       "Link_Foto":
+"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQk9PXMMBC4Vde2NWy3LkDY9XqzkJN9eQCDFQ&usqp=CAU"
+      },
+      {
+       "Nome": "Capriccioso",
+       "Categoria": "Panino",
+       "Ingredienti": "Salame Milano, pancetta, pomodoro a fette, lattuga "
+       "Prezzo": "3",
+       "Link_Foto":
+"https://i.pinimg.com/564x/71/af/a0/71afa0205d4d818d2ccee7495279283f.jpg"
+    }
     ]
   }
