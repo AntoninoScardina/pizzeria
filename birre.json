@@ -4,7 +4,7 @@
       "Nome": "Baffo d'oro",
       "Categoria": "Birra",
       "cl": "66 CL",
-      "Prezzo_birra_piccola": "1.50",
+      "Prezzo_birra_piccola": "Prezzo birra piccola 1.50€",
       "Prezzo_birra_grande": "3",
       "Link_Foto": "https://www.supermercato24.it/asset/smhd/d9170/7d4ff/c0ad1/424659762_img.jpg"
     },
@@ -12,7 +12,7 @@
       "Nome": "Beck's",
       "Categoria": "Birra",
       "cl": "66 CL",
-      "Prezzo_birra piccola":"1.50",
+      "Prezzo_birra piccola":"Prezzo birra piccola 1.50€",
       "Prezzo_birra_grande":"3",
       "Link_Foto": "https://www.bevisrl.com/components/com_jshopping/files/img_products/58d990dac0d890e4b5e339d29a2328b4.jpg"
     },
@@ -20,14 +20,14 @@
       "Nome": "Heineken",
       "Categoria": "Birra",
       "cl": "66 CL",
-      "Prezzo_birra_piccola":"1.50",
+      "Prezzo_birra_piccola":"Prezzo birra piccola 1.50€",
       "Prezzo_birra_grande":"3",
       "Link_Foto": "https://www.bevisrl.com/components/com_jshopping/files/img_products/full_f487e41b55b42b712cdaab4c37a95230.jpg"
     },
     {
       "Nome": "Grand Cru Moretti",
       "Categoria": "Birra",
-      "Prezzo_birra_piccola": "1.50",
+      "Prezzo_birra_piccola": "Prezzo birra piccola 1.50€",
       "Prezzo_birra_grande": "3",
       "cl": "75 CL",
       "Link_Foto": "https://resizer.bernabei.it/ARTICOLI/L_137.png"
@@ -36,7 +36,7 @@
       "Nome": "Paulaner Weissbier",
       "Categoria": "Birra",
       "cl": "50 CL",
-      "Prezzo_birra_piccola": "1.50",
+      "Prezzo_birra_piccola": "Prezzo birra piccola 1.50€",
       "Prezzo_birra_grande": "3",
       "Link_Foto": "https://souriredessaveurs.com/2978-home_default/birra-hefe-weissbier-paulaner-naturtrueb-bianco-tedesco-55-50-cl.jpg"
     },
@@ -44,7 +44,7 @@
       "Nome": "Ceres",
       "Categoria": "Birra",
       "cl": "33 CL",
-      "Prezzo_birra_piccola": "1.50",
+      "Prezzo_birra_piccola": "Prezzo birra piccola 1.50€",
       "Prezzo_birra_grande": "3",
       "Link_Foto": "https://i.ebayimg.com/images/g/IRIAAOSwOgdYobFj/s-l300.jpg"
     },
@@ -52,7 +52,7 @@
       "Nome": "Red Bull",
       "Categoria": "Birra",
       "cl": "33 CL",
-      "Prezzo_bibita_piccola": "1.50",
+      "Prezzo_bibita_piccola": "Prezzo birra piccola 1.50€",
       "Link_Foto": "https://carrefour.gospesa.it/pescara/24505-large_default/red-bull-energy-drink-250-ml-lattina.jpg"
     }
   ]
