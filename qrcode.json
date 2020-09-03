@@ -2,6 +2,10 @@
   "results": [
     {
       "QrCode": "Red Bul",
+      "QrCodeNumber": "Birra"
+    },
+     {
+      "QrCode": "Red Bul",
       "QrCodeNumber": "Birra",
     }
   ]
