@@ -1,8 +1,4 @@
 {
-  "results": [
-    {
-      "QrCode": "https://www.qrcode-monkey.com/img/default-preview-qr.svg",
-      "QrCodeNumber": "0",
-    }
-  ]
+   "QrCode": "https://www.qrcode-monkey.com/img/default-preview-qr.svg",
+    "QrCodeNumber": "0",
 }
