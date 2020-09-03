@@ -1,9 +1,9 @@
 {
-  "results": [
-    {
-        "QrCode":"https://www.lenus.it/qrcode/?txt=Lenus%20Media%20is%20awesome&big=1",
-        "QrCodeNumber":"0",
-    }
-  
- ]
-}
+    "results": [
+      {
+          "QrCode":"https://www.lenus.it/qrcode/?txt=Lenus%20Media%20is%20awesome&big=1",
+          "QrCodeNumber":"0"
+      }
+    
+   ]
+  }
