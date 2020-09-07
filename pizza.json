@@ -38,7 +38,7 @@
       "Normale": "7",
       "Familiare": "14",
       "Link_Foto":
-"https://primochef.it/wp-content/uploads/2018/05/SH_pizza_capricciosa.jpg"
+"https://i.ibb.co/g781WYv/Whats-App-Image-2020-09-06-at-18-55-39.jpg"
     },
     {
       "Nome": "4 gusti",
@@ -47,7 +47,7 @@
       "Normale": "6",
       "Familiare": "12",
       "Link_Foto":
-"https://i1.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2016/07/3017_Pizza.jpg?resize=895%2C616&ssl=1"
+"https://i.ibb.co/HpqGH2h/Whats-App-Image-2020-09-06-at-18-55-43.jpg"
    
    
     },
@@ -95,7 +95,7 @@
       "Normale": "6",
       "Familiare": "12",
       "Link_Foto":
-"https://www.ristorantepizzeriajanna.com/wp-content/uploads/2015/10/pizza-americana-brescia_opt.jpg"
+"https://i.ibb.co/Yt5Z9rp/Whats-App-Image-2020-09-06-at-18-55-44.jpg"
     
     },
     {
@@ -105,7 +105,7 @@
       "Normale": "8",
       "Familiare": "14",
       "Link_Foto":
-"https://i0.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2016/12/3018_Pizza.jpg?resize=895%2C616&ssl=1"
+"https://i.ibb.co/f2644xz/Whats-App-Image-2020-09-06-at-18-58-15.jpg"
     },
     {
       "Nome": "La fattoria",
@@ -114,7 +114,7 @@
       "Normale": "6",
       "Familiare": "12",
       "Link_Foto":
-"https://www.pistacchissimo.it/images/pizze/pizza-crudolosa-pistacchio-gusti-siciliani-catania.jpg"
+"https://i.ibb.co/nLLdkgd/Whats-App-Image-2020-09-06-at-18-55-43-2.jpg"
      },
      {
       "Nome": "Oasi",
@@ -346,7 +346,7 @@
         "Normale": "6",
         "Familiare": "10",
         "Link_Foto":
-"https://media-cdn.tripadvisor.com/media/photo-s/04/15/ff/a5/pizza-brigida.jpg"
+"https://i.ibb.co/QYRGMNW/Whats-App-Image-2020-09-06-at-18-55-42-2.jpg"
        },
        {
         "Nome": "Vegeteriana",
@@ -373,9 +373,7 @@
         "Normale": "8",
         "Familiare": "15",
         "Link_Foto":
-"https://www.fragolosi.it/wp-content/foto-ricetta/2018/10/Pizza-al-Pistacchio.jpg"
-   
-   
+"https://i.ibb.co/Tgw4md1/Whats-App-Image-2020-09-06-at-18-55-42.jpg"
     },
     {
           "Nome": "Pizza Bomba",
@@ -430,6 +428,15 @@
           "Familiare": "15",
           "Link_Foto":
     "https://it.rc-cdn.community.thermomix.com/recipeimage/k48flfhx-cb3c4-915403-cfcd2-b8g8bqph/bd02e072-4a53-49c4-bb24-ac1f7350bfdc/large/pizza-al-pistacchio.jpg"
+        },
+        {
+            "Nome": "Re delle pizze",
+            "Categoria": "Pizza plus",
+            "Ingredienti": "Pomodoro, Bufala cruda, Mortadella, Ciliegini, Granella di pistacchio, Crema di pistacchio ",
+            "Normale": "8",
+            "Familiare": "15",
+            "Link_Foto": "https://i.ibb.co/K65DcRw/Whats-App-Image-2020-09-06-at-18-58-57.jpg"
+      
         }
     ]
   }
